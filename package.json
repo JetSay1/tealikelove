@@ -1,0 +1,19 @@
+{
+  "name": "tealikelove",
+  "version": "1.0.0",
+  "description": "Help for projects it is my passion)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JetSay1/tealikelove.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JetSay1/tealikelove/issues"
+  },
+  "homepage": "https://github.com/JetSay1/tealikelove#readme"
+}
