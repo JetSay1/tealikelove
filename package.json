@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/JetSay1/tealikelove.git"
   },
+  "dependencies": {
+    "tealikelove": "1.0.0"
+  },
   "author": "",
   "license": "ISC",
   "bugs": {
